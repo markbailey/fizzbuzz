@@ -1,2 +1,2 @@
 # fizzbuzz
- My answer to teh fizzbuzz question
+ My answer to the fizzbuzz question
