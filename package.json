@@ -1,0 +1,8 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz test",
+  "main": "index.js",
+  "author": "Mark Bailey",
+  "license": "MIT"
+}
